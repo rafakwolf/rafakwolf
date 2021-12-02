@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rafakwolf@gmail.com**
 
-- 📄 Know about my experiences [https://rafael.wolf.vercel.app/resume](https://rafael.wolf.vercel.app/resume)
+- 📄 Know about my experiences [https://rafaelwolf.vercel.app/resume](https://rafaelwolf.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
