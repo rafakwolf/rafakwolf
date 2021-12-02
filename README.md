@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **BairesDev**
 
-- 👨‍💻 Here's my personal site [https://rafael.wolf.vercel.app](https://rafael.wolf.vercel.app)
+- 👨‍💻&nbsp;Here's my personal site [https://rafaelwolf.vercel.app](https://rafaelwolf.vercel.app)
 
-- 💬 Ask me about **NodeJS, C#, SQL Databases**
+- 💬&nbsp;Ask me about **NodeJS, C#, SQL Databases**
 
-- 📫 How to reach me **rafakwolf@gmail.com**
+- 📫&nbsp;How to reach me **rafakwolf@gmail.com**
 
-- 📄 Know about my experiences [https://rafaelwolf.vercel.app/resume](https://rafaelwolf.vercel.app/resume)
+- 📄&nbsp;Know about my experiences [https://rafaelwolf.vercel.app/resume](https://rafaelwolf.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
